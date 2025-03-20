@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    background-color: #ffdead;
+
+}
+
+#logo {
+    text-align: center;
+    margin-top: 100px;
+  
+
+}
+nav {
+    text-align: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed; 
+      margin: 20px 0px 50px 0px;
+}
+nav a {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 30px;
+    background-color: #8b4513;
+    color: #ffdead;
+    padding: 25px;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+
+h1{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #8b4513;
+
+}
+
+h2 {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: #8b4513;
+    color: #ffdead;
+    padding: 20px;
+    clear: both;
+
+}
+
+
+
+p {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: justify;
+    margin: 0px 25px 0px 25px;
+}
+
+.esquerda {
+    text-align: left;
+    margin-left: 25px;
+    margin-right: 25px;
+    float: left;
+}
+
+#direita {
+    text-align: right;
+     margin-left: 25px;
+    margin-right: 25px;
+    float: right;
+}
+
+figcaption {
+    font-family: Roboto, Arial, sans-serif;
+font-size: 15px;
+font-weight: 400;
+/* text-align: center; */
+
+}
+
+.lista {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+
+#redes {
+    text-align: center;
+}
+
+#redes a {
+    text-decoration: none;
+}
+
+#voltar {
+    text-align: right;
+    margin-right: 25px;
+}
+
+
+footer {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    background-color: #8b4513;
+    color: #ffdead;
+    padding: 25px;
+    text-align: center;
+}
+
